@@ -1,9 +1,7 @@
 {
-  "name": "sub-A",
+  "name": "pkg1",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "dependencies": {
-    "vm2": "^3.9.19"
-  }
+  "dependencies": {}
 }
